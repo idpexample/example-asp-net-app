@@ -3,6 +3,8 @@ kind: API
 metadata:
   name: todo
   description: todo API
+  annotations:
+    backstage.io/techdocs-ref: dir:.
   tags:
     - todo
     - rest
