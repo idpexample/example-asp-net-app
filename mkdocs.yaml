@@ -1,0 +1,8 @@
+site_name: todoapi-docs
+site_description: API Docs
+plugins:
+  - techdocs-core
+nav:
+  - Getting Started: introduction.md
+  - TodoApi: /api/
+      
