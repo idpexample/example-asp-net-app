@@ -1,0 +1,23 @@
+### YamlMime:ManagedReference
+items:
+- uid: TodoApi
+  commentId: N:TodoApi
+  id: TodoApi
+  children:
+  - TodoApi.WeatherForecast
+  langs:
+  - csharp
+  - vb
+  name: TodoApi
+  nameWithType: TodoApi
+  fullName: TodoApi
+  type: Namespace
+  assemblies:
+  - TodoApi
+references:
+- uid: TodoApi.WeatherForecast
+  commentId: T:TodoApi.WeatherForecast
+  href: TodoApi.WeatherForecast.html
+  name: WeatherForecast
+  nameWithType: WeatherForecast
+  fullName: TodoApi.WeatherForecast

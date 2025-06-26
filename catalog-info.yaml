@@ -11,4 +11,4 @@ spec:
   lifecycle: experimental
   owner: team-c
   definition:
-    $text: ./ocs/todo.oas.yaml
+    $text: ./docs/todo.oas.json
