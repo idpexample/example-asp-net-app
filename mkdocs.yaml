@@ -4,5 +4,16 @@ plugins:
   - techdocs-core
 nav:
   - Getting Started: introduction.md
-  - TodoApi: /api/
+  - TodoApi:
+    - Overview: api/TodoApi.md
+    - Controllers:
+      - Overview: api/TodoApi.Controllers.md
+      - TodoItemsController: api/TodoApi.Controllers.TodoItemsController.md
+      - WeatherForecastController: api/TodoApi.Controllers.WeatherForecastController.md
+    - Models:
+      - Overview: api/TodoApi.Models.md
+      - TodoContext: api/TodoApi.Models.TodoContext.md
+      - TodoItem: api/TodoApi.Models.TodoItem.md
+    - WeatherForecast: api/TodoApi.WeatherForecast.md
+
       
