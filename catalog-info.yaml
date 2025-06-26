@@ -9,6 +9,6 @@ metadata:
 spec:
   type: openapi
   lifecycle: experimental
-  owner: team-c
+  owner: user:guest
   definition:
     $text: ./docs/todo.oas.json
